@@ -21,4 +21,5 @@ group :development do
   gem 'jruby-lint'
   gem 'webmock'
   gem 'hometown'
+  gem 'rubocop'
 end
